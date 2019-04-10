@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/33 类和对象简述.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
