@@ -123,59 +123,113 @@ C_LanguageFatherC__/fast:
 	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/build
 .PHONY : C_LanguageFatherC__/fast
 
-4_Day4_STL/14_对值pair.o: 4_Day4_STL/14_对值pair.cpp.o
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.o: 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o
 
-.PHONY : 4_Day4_STL/14_对值pair.o
-
-# target to build an object file
-4_Day4_STL/14_对值pair.cpp.o:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/14_对值pair.cpp.o
-.PHONY : 4_Day4_STL/14_对值pair.cpp.o
-
-4_Day4_STL/14_对值pair.i: 4_Day4_STL/14_对值pair.cpp.i
-
-.PHONY : 4_Day4_STL/14_对值pair.i
-
-# target to preprocess a source file
-4_Day4_STL/14_对值pair.cpp.i:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/14_对值pair.cpp.i
-.PHONY : 4_Day4_STL/14_对值pair.cpp.i
-
-4_Day4_STL/14_对值pair.s: 4_Day4_STL/14_对值pair.cpp.s
-
-.PHONY : 4_Day4_STL/14_对值pair.s
-
-# target to generate assembly for a file
-4_Day4_STL/14_对值pair.cpp.s:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/14_对值pair.cpp.s
-.PHONY : 4_Day4_STL/14_对值pair.cpp.s
-
-4_Day4_STL/15_map_multimap常用API.o: 4_Day4_STL/15_map_multimap常用API.cpp.o
-
-.PHONY : 4_Day4_STL/15_map_multimap常用API.o
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.o
 
 # target to build an object file
-4_Day4_STL/15_map_multimap常用API.cpp.o:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/15_map_multimap常用API.cpp.o
-.PHONY : 4_Day4_STL/15_map_multimap常用API.cpp.o
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o
 
-4_Day4_STL/15_map_multimap常用API.i: 4_Day4_STL/15_map_multimap常用API.cpp.i
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.i: 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i
 
-.PHONY : 4_Day4_STL/15_map_multimap常用API.i
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.i
 
 # target to preprocess a source file
-4_Day4_STL/15_map_multimap常用API.cpp.i:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/15_map_multimap常用API.cpp.i
-.PHONY : 4_Day4_STL/15_map_multimap常用API.cpp.i
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i
 
-4_Day4_STL/15_map_multimap常用API.s: 4_Day4_STL/15_map_multimap常用API.cpp.s
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.s: 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s
 
-.PHONY : 4_Day4_STL/15_map_multimap常用API.s
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.s
 
 # target to generate assembly for a file
-4_Day4_STL/15_map_multimap常用API.cpp.s:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/15_map_multimap常用API.cpp.s
-.PHONY : 4_Day4_STL/15_map_multimap常用API.cpp.s
+4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s
+.PHONY : 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s
+
+4_Day4_STL/24_常用查找算法.o: 4_Day4_STL/24_常用查找算法.cpp.o
+
+.PHONY : 4_Day4_STL/24_常用查找算法.o
+
+# target to build an object file
+4_Day4_STL/24_常用查找算法.cpp.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o
+.PHONY : 4_Day4_STL/24_常用查找算法.cpp.o
+
+4_Day4_STL/24_常用查找算法.i: 4_Day4_STL/24_常用查找算法.cpp.i
+
+.PHONY : 4_Day4_STL/24_常用查找算法.i
+
+# target to preprocess a source file
+4_Day4_STL/24_常用查找算法.cpp.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.i
+.PHONY : 4_Day4_STL/24_常用查找算法.cpp.i
+
+4_Day4_STL/24_常用查找算法.s: 4_Day4_STL/24_常用查找算法.cpp.s
+
+.PHONY : 4_Day4_STL/24_常用查找算法.s
+
+# target to generate assembly for a file
+4_Day4_STL/24_常用查找算法.cpp.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.s
+.PHONY : 4_Day4_STL/24_常用查找算法.cpp.s
+
+4_Day4_STL/25_常用的排序算法.o: 4_Day4_STL/25_常用的排序算法.cpp.o
+
+.PHONY : 4_Day4_STL/25_常用的排序算法.o
+
+# target to build an object file
+4_Day4_STL/25_常用的排序算法.cpp.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o
+.PHONY : 4_Day4_STL/25_常用的排序算法.cpp.o
+
+4_Day4_STL/25_常用的排序算法.i: 4_Day4_STL/25_常用的排序算法.cpp.i
+
+.PHONY : 4_Day4_STL/25_常用的排序算法.i
+
+# target to preprocess a source file
+4_Day4_STL/25_常用的排序算法.cpp.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.i
+.PHONY : 4_Day4_STL/25_常用的排序算法.cpp.i
+
+4_Day4_STL/25_常用的排序算法.s: 4_Day4_STL/25_常用的排序算法.cpp.s
+
+.PHONY : 4_Day4_STL/25_常用的排序算法.s
+
+# target to generate assembly for a file
+4_Day4_STL/25_常用的排序算法.cpp.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.s
+.PHONY : 4_Day4_STL/25_常用的排序算法.cpp.s
+
+4_Day4_STL/26_常用的拷贝和替换.o: 4_Day4_STL/26_常用的拷贝和替换.cpp.o
+
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.o
+
+# target to build an object file
+4_Day4_STL/26_常用的拷贝和替换.cpp.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.cpp.o
+
+4_Day4_STL/26_常用的拷贝和替换.i: 4_Day4_STL/26_常用的拷贝和替换.cpp.i
+
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.i
+
+# target to preprocess a source file
+4_Day4_STL/26_常用的拷贝和替换.cpp.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.i
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.cpp.i
+
+4_Day4_STL/26_常用的拷贝和替换.s: 4_Day4_STL/26_常用的拷贝和替换.cpp.s
+
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.s
+
+# target to generate assembly for a file
+4_Day4_STL/26_常用的拷贝和替换.cpp.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.s
+.PHONY : 4_Day4_STL/26_常用的拷贝和替换.cpp.s
 
 # Help Target
 help:
@@ -186,12 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C_LanguageFatherC__"
-	@echo "... 4_Day4_STL/14_对值pair.o"
-	@echo "... 4_Day4_STL/14_对值pair.i"
-	@echo "... 4_Day4_STL/14_对值pair.s"
-	@echo "... 4_Day4_STL/15_map_multimap常用API.o"
-	@echo "... 4_Day4_STL/15_map_multimap常用API.i"
-	@echo "... 4_Day4_STL/15_map_multimap常用API.s"
+	@echo "... 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.o"
+	@echo "... 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.i"
+	@echo "... 4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.s"
+	@echo "... 4_Day4_STL/24_常用查找算法.o"
+	@echo "... 4_Day4_STL/24_常用查找算法.i"
+	@echo "... 4_Day4_STL/24_常用查找算法.s"
+	@echo "... 4_Day4_STL/25_常用的排序算法.o"
+	@echo "... 4_Day4_STL/25_常用的排序算法.i"
+	@echo "... 4_Day4_STL/25_常用的排序算法.s"
+	@echo "... 4_Day4_STL/26_常用的拷贝和替换.o"
+	@echo "... 4_Day4_STL/26_常用的拷贝和替换.i"
+	@echo "... 4_Day4_STL/26_常用的拷贝和替换.s"
 .PHONY : help
 
 

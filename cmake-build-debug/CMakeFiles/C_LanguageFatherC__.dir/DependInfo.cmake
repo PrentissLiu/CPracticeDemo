@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/14 对值pair.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/14_对值pair.cpp.o"
-  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/15 map multimap常用API.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/15_map_multimap常用API.cpp.o"
+  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/23 常用的遍历算法 transform将一个容器中的值搬到另外一个容器中.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o"
+  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/24 常用查找算法.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o"
+  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/25 常用的排序算法.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o"
+  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/26 常用的拷贝和替换.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
