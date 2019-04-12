@@ -1,0 +1,7 @@
+kill: kill 1234 failed: no such process
+
+
+
+//kill -HUP 1234 > killout.txt 2>killerr.txt
+//把标准输出和标准错误输出分别重定向到不同的文件之中
+

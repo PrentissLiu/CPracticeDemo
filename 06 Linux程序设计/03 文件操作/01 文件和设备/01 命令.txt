@@ -1,0 +1,14 @@
+
+
+
+cp /dev/null empty_file
+//从 /dev/null创建一个新文件的方法
+
+
+
+底层函数：
+open：打开文件/设备
+read：打开的文件和设备读取数据
+write：向文件或设备写数据
+close：关闭文件或设备
+ioctl：控制信息传递给驱动程序

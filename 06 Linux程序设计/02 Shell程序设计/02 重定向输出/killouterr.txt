@@ -1,0 +1,7 @@
+kill: kill 1234 failed: no such process
+
+
+
+
+//kill -1 1234 > killouterr.txt 2>&1
+// >& 把两个操作符结合两个输出

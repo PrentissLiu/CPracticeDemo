@@ -1,0 +1,17 @@
+  PID TTY           TIME CMD
+16584 ttys000    0:00.06 /Users/prentiss/Applications/iTerm.app/Contents/MacOS/iTerm2 --server login -fp prentiss
+16586 ttys000    0:00.77 -zsh
+ 9028 ttys002    0:00.06 /Users/prentiss/Applications/iTerm.app/Contents/MacOS/iTerm2 --server login -fp prentiss
+ 9042 ttys002    0:10.05 -zsh
+
+
+
+//ps > psout.txt
+//sort psort.txt > pssort.out
+
+
+//ps | sort > pssort.out
+//使用管道输出之后的效果
+
+//当然还可以加上more
+// ps | sort | more
