@@ -57,75 +57,30 @@ include CMakeFiles/C_LanguageFatherC__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C_LanguageFatherC__.dir/flags.make
 
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o: ../4\ Day4\ STL/23\ 常用的遍历算法\ transform将一个容器中的值搬到另外一个容器中.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/23 常用的遍历算法 transform将一个容器中的值搬到另外一个容器中.cpp"
+CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
+CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o: ../08\ LeetCode/00/01\ 计算n阶乘中尾部0的个数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/08 LeetCode/00/01 计算n阶乘中尾部0的个数.cpp"
 
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/23 常用的遍历算法 transform将一个容器中的值搬到另外一个容器中.cpp" > CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.i
+CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/08 LeetCode/00/01 计算n阶乘中尾部0的个数.cpp" > CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i
 
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/23 常用的遍历算法 transform将一个容器中的值搬到另外一个容器中.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.s
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o: ../4\ Day4\ STL/24\ 常用查找算法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/24 常用查找算法.cpp"
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/24 常用查找算法.cpp" > CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.i
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/24 常用查找算法.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.s
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o: ../4\ Day4\ STL/25\ 常用的排序算法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/25 常用的排序算法.cpp"
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/25 常用的排序算法.cpp" > CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.i
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/25 常用的排序算法.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.s
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o: ../4\ Day4\ STL/26\ 常用的拷贝和替换.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/26 常用的拷贝和替换.cpp"
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/26 常用的拷贝和替换.cpp" > CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.i
-
-CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/4 Day4 STL/26 常用的拷贝和替换.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.s
+CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/08 LeetCode/00/01 计算n阶乘中尾部0的个数.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s
 
 # Object files for target C_LanguageFatherC__
 C_LanguageFatherC___OBJECTS = \
-"CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o" \
-"CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o" \
-"CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o" \
-"CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o"
+"CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o"
 
 # External object files for target C_LanguageFatherC__
 C_LanguageFatherC___EXTERNAL_OBJECTS =
 
-C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/23_常用的遍历算法_transform将一个容器中的值搬到另外一个容器中.cpp.o
-C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/24_常用查找算法.cpp.o
-C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/25_常用的排序算法.cpp.o
-C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/4_Day4_STL/26_常用的拷贝和替换.cpp.o
+C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o
 C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/build.make
 C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C_LanguageFatherC__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C_LanguageFatherC__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_LanguageFatherC__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
