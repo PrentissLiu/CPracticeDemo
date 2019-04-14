@@ -1,1 +1,1 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o  -o C_LanguageFatherC__ 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o  -o C_LanguageFatherC__ 

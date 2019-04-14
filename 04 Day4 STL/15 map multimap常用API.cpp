@@ -53,3 +53,15 @@ equal_range(keyElem);   //返回容器中的key与keyElem相等的上下限两�
 
 
 
+---
+
+
+map<string, string> namemap;
+
+//增加。。。
+namemap["岳不群"]="华山派掌门人，人称君子剑";
+
+//查找。。
+if(namemap.find("岳不群") != namemap.end()){
+        ...
+}

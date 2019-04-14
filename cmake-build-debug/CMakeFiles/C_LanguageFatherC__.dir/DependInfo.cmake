@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/08 LeetCode/00/01 计算n阶乘中尾部0的个数.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o"
+  "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/00 难点/79 auto的用法.cpp" "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

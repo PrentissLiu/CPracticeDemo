@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o"
+  "CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o"
   "C_LanguageFatherC__.pdb"
   "C_LanguageFatherC__"
 )

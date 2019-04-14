@@ -3,4 +3,4 @@ project(C_LanguageFatherC__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C_LanguageFatherC__  "08 LeetCode/00/01 计算n阶乘中尾部0的个数.cpp")
+add_executable(C_LanguageFatherC__   "01 Day1/00 难点/79 auto的用法.cpp")

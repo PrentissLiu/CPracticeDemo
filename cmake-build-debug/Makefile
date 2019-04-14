@@ -123,32 +123,32 @@ C_LanguageFatherC__/fast:
 	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/build
 .PHONY : C_LanguageFatherC__/fast
 
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.o: 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o
+01_Day1/00_难点/79_auto的用法.o: 01_Day1/00_难点/79_auto的用法.cpp.o
 
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.o
+.PHONY : 01_Day1/00_难点/79_auto的用法.o
 
 # target to build an object file
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.o
+01_Day1/00_难点/79_auto的用法.cpp.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o
+.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.o
 
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.i: 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i
+01_Day1/00_难点/79_auto的用法.i: 01_Day1/00_难点/79_auto的用法.cpp.i
 
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.i
+.PHONY : 01_Day1/00_难点/79_auto的用法.i
 
 # target to preprocess a source file
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.i
+01_Day1/00_难点/79_auto的用法.cpp.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.i
+.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.i
 
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.s: 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s
+01_Day1/00_难点/79_auto的用法.s: 01_Day1/00_难点/79_auto的用法.cpp.s
 
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.s
+.PHONY : 01_Day1/00_难点/79_auto的用法.s
 
 # target to generate assembly for a file
-08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s
-.PHONY : 08_LeetCode/00/01_计算n阶乘中尾部0的个数.cpp.s
+01_Day1/00_难点/79_auto的用法.cpp.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.s
+.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C_LanguageFatherC__"
-	@echo "... 08_LeetCode/00/01_计算n阶乘中尾部0的个数.o"
-	@echo "... 08_LeetCode/00/01_计算n阶乘中尾部0的个数.i"
-	@echo "... 08_LeetCode/00/01_计算n阶乘中尾部0的个数.s"
+	@echo "... 01_Day1/00_难点/79_auto的用法.o"
+	@echo "... 01_Day1/00_难点/79_auto的用法.i"
+	@echo "... 01_Day1/00_难点/79_auto的用法.s"
 .PHONY : help
 
 
