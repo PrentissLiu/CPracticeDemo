@@ -3,4 +3,4 @@ project(C_LanguageFatherC__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(C_LanguageFatherC__   "01 Day1/00 难点/79 auto的用法.cpp")
+add_executable(C_LanguageFatherC__   "06 Linux程序设计/05 终端/05 读取每一个字符.c")

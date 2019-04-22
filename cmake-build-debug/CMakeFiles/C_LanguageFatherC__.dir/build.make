@@ -57,30 +57,30 @@ include CMakeFiles/C_LanguageFatherC__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C_LanguageFatherC__.dir/flags.make
 
-CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
-CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o: ../01\ Day1/00\ 难点/79\ auto的用法.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/00 难点/79 auto的用法.cpp"
+CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o: CMakeFiles/C_LanguageFatherC__.dir/flags.make
+CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o: ../06\ Linux程序设计/05\ 终端/05\ 读取每一个字符.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o   -c "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/06 Linux程序设计/05 终端/05 读取每一个字符.c"
 
-CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/00 难点/79 auto的用法.cpp" > CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.i
+CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/06 Linux程序设计/05 终端/05 读取每一个字符.c" > CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.i
 
-CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/00 难点/79 auto的用法.cpp" -o CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.s
+CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/06 Linux程序设计/05 终端/05 读取每一个字符.c" -o CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.s
 
 # Object files for target C_LanguageFatherC__
 C_LanguageFatherC___OBJECTS = \
-"CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o"
+"CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o"
 
 # External object files for target C_LanguageFatherC__
 C_LanguageFatherC___EXTERNAL_OBJECTS =
 
-C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o
+C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o
 C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/build.make
 C_LanguageFatherC__: CMakeFiles/C_LanguageFatherC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C_LanguageFatherC__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable C_LanguageFatherC__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_LanguageFatherC__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

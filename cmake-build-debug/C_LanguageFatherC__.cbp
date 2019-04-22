@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/01 Day1/00 难点/79 auto的用法.cpp">
+		<Unit filename="/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/06 Linux程序设计/05 终端/05 读取每一个字符.c">
 			<Option target="C_LanguageFatherC__"/>
 		</Unit>
 		<Unit filename="/Users/prentiss/Desktop/123/C_LanguageFatherC++黑马跟视频/CMakeLists.txt">

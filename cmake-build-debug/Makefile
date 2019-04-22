@@ -123,32 +123,32 @@ C_LanguageFatherC__/fast:
 	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/build
 .PHONY : C_LanguageFatherC__/fast
 
-01_Day1/00_难点/79_auto的用法.o: 01_Day1/00_难点/79_auto的用法.cpp.o
+06_Linux程序设计/05_终端/05_读取每一个字符.o: 06_Linux程序设计/05_终端/05_读取每一个字符.c.o
 
-.PHONY : 01_Day1/00_难点/79_auto的用法.o
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.o
 
 # target to build an object file
-01_Day1/00_难点/79_auto的用法.cpp.o:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o
-.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.o
+06_Linux程序设计/05_终端/05_读取每一个字符.c.o:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.c.o
 
-01_Day1/00_难点/79_auto的用法.i: 01_Day1/00_难点/79_auto的用法.cpp.i
+06_Linux程序设计/05_终端/05_读取每一个字符.i: 06_Linux程序设计/05_终端/05_读取每一个字符.c.i
 
-.PHONY : 01_Day1/00_难点/79_auto的用法.i
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.i
 
 # target to preprocess a source file
-01_Day1/00_难点/79_auto的用法.cpp.i:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.i
-.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.i
+06_Linux程序设计/05_终端/05_读取每一个字符.c.i:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.i
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.c.i
 
-01_Day1/00_难点/79_auto的用法.s: 01_Day1/00_难点/79_auto的用法.cpp.s
+06_Linux程序设计/05_终端/05_读取每一个字符.s: 06_Linux程序设计/05_终端/05_读取每一个字符.c.s
 
-.PHONY : 01_Day1/00_难点/79_auto的用法.s
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.s
 
 # target to generate assembly for a file
-01_Day1/00_难点/79_auto的用法.cpp.s:
-	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.s
-.PHONY : 01_Day1/00_难点/79_auto的用法.cpp.s
+06_Linux程序设计/05_终端/05_读取每一个字符.c.s:
+	$(MAKE) -f CMakeFiles/C_LanguageFatherC__.dir/build.make CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.s
+.PHONY : 06_Linux程序设计/05_终端/05_读取每一个字符.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C_LanguageFatherC__"
-	@echo "... 01_Day1/00_难点/79_auto的用法.o"
-	@echo "... 01_Day1/00_难点/79_auto的用法.i"
-	@echo "... 01_Day1/00_难点/79_auto的用法.s"
+	@echo "... 06_Linux程序设计/05_终端/05_读取每一个字符.o"
+	@echo "... 06_Linux程序设计/05_终端/05_读取每一个字符.i"
+	@echo "... 06_Linux程序设计/05_终端/05_读取每一个字符.s"
 .PHONY : help
 
 

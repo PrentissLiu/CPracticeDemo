@@ -1,1 +1,1 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/C_LanguageFatherC__.dir/01_Day1/00_难点/79_auto的用法.cpp.o  -o C_LanguageFatherC__ 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/C_LanguageFatherC__.dir/06_Linux程序设计/05_终端/05_读取每一个字符.c.o  -o C_LanguageFatherC__ 
